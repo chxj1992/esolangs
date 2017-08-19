@@ -1,4 +1,8 @@
 import random
+import sys
+
+def run():
+    print(interpret(sys.argv[1]))
 
 def interpret(code):
     out = ''
@@ -105,4 +109,9 @@ def interpret(code):
                 stack.insert(0, str(ord(code[int(y)][int(x)])))
         position = tuple([x+y for x, y in zip(direction, position)])
         c = code[position[1]][position[0]]
+
     return out
+
+if __name__ == "__main__":
+    run()
+
