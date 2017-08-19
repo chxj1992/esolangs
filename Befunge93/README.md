@@ -24,7 +24,9 @@ Befunge 中也有加减乘除、模、逻辑非、大于等常见的运算，只
 #### Try It
 
 ```
-$ python befunge93.py '>25*"!dlroW olleH":v\n                v:,_@\n                >  ^'
+$ python befunge93.py '>25*"!dlroW olleH":v
+                v:,_@
+                >  ^'
 ```
 
 #### Run Tests
