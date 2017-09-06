@@ -1,6 +1,6 @@
 # Freak Interpreters
 
-This is a collection of freak interpreters. Just for fun 🤡🎃👽 ~~~
+This is a collection of esoteric language interpreters. Just for fun 🤡🎃👽 ~~~
 
 ### 1. [Befunge](/Befunge93)
 ```
