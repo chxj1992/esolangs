@@ -28,7 +28,7 @@ $ python brainfuck.py '++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++.
 python tests.py
 ```
 
-* Read more about Befunge on the [ESO Language Wiki](https://esolangs.org/wiki/Brainfuck) page.
+* Read more about Brainfuck on the [ESO Language Wiki](https://esolangs.org/wiki/Brainfuck) page.
 * An online [Brainfuck interpreter](https://fatiherikli.github.io/brainfuck-visualizer/)
 * [A CodeWars Kata for Brainfuck](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/train/python)
 
