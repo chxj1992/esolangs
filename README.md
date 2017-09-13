@@ -15,5 +15,5 @@ invented in 1993 by Chris Pressey with the goal of being as difficult to compile
 ### 2. Fuckers
 ```
 Brainfuck是晦涩难懂的语言巨星，受到了大批崇拜者的追捧。该语言是出了名的难以编程，仅有8个简单的命令和一个指令指针。它的设计就是为了挑战和娱乐程序员，而不是为了用于实际用途。它由Urban Müller于1993年创建。
-这个系列包括以[Brainfuck](/Brainfuck)为代表的一系列语言，其他还有[Boolfuck](/Boolfuck)、[Smallfuck](/Smallfuck)、[Paintfuck](/Paintfuck)。
 ```
+这个系列包括以[Brainfuck](/Brainfuck)为代表的一系列语言，其他还有[Boolfuck](/Boolfuck)、[Smallfuck](/Smallfuck)、[Paintfuck](/Paintfuck)。
